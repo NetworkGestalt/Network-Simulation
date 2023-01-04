@@ -38,6 +38,6 @@ Required packages (__Python__):
 
 ## Working Code
 
-[Financial Contagion Text File](https://github.com/NetworkGestalt/Network-Simulation/files/10341797/Financial.Contagion.txt)
+[Financial Contagion (Text File)](https://github.com/NetworkGestalt/Network-Simulation/files/10341797/Financial.Contagion.txt)
 
-[Financial Contagion RMD](https://github.com/NetworkGestalt/Network-Simulation/blob/main/Financial%20Contagion.ipynb)
+[Financial Contagion (ipynb)](https://github.com/NetworkGestalt/Network-Simulation/blob/main/Financial%20Contagion.ipynb)
