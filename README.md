@@ -39,3 +39,5 @@ Required packages (__Python__):
 ## Working Code
 
 [Financial Contagion.txt](https://github.com/NetworkGestalt/Network-Simulation/files/10341797/Financial.Contagion.txt)
+
+https://github.com/NetworkGestalt/Network-Simulation/blob/main/Financial%20Contagion.ipynb
